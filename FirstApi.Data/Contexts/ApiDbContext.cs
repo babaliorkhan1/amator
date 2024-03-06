@@ -8,6 +8,7 @@ namespace FirstApi.Data.Contexts
         public ApiDbContext(DbContextOptions<ApiDbContext> options):base(options)
         {
 //ssssssssalam
+//salam da
         }
         public DbSet<Category> Categories { get; set; } 
     }
