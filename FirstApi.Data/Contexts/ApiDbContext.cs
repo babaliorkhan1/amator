@@ -10,6 +10,7 @@ namespace FirstApi.Data.Contexts
 //ssssssssalam
 //salam da
 //salaam
+//sssss
         }
         public DbSet<Category> Categories { get; set; } 
     }
