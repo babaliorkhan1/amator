@@ -20,6 +20,7 @@ namespace FirstApi.Controllers
         public CategorysController(ICategoryService categoryService)
         {
             _categoryService = categoryService;
+           
         }
 
 
