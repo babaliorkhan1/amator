@@ -7,7 +7,7 @@ namespace FirstApi.Data.Contexts
     {
         public ApiDbContext(DbContextOptions<ApiDbContext> options):base(options)
         {
-
+//ssssssssalam
         }
         public DbSet<Category> Categories { get; set; } 
     }
