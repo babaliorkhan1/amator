@@ -1,0 +1,5 @@
+C:\Users\MERDAN\Music\FirstApi\FirstApi.Data\obj\Debug\net7.0\FirstApi.Data.csproj.AssemblyReference.cache
+C:\Users\MERDAN\Music\FirstApi\FirstApi.Data\obj\Debug\net7.0\FirstApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERDAN\Music\FirstApi\FirstApi.Data\obj\Debug\net7.0\FirstApi.Data.AssemblyInfoInputs.cache
+C:\Users\MERDAN\Music\FirstApi\FirstApi.Data\obj\Debug\net7.0\FirstApi.Data.AssemblyInfo.cs
+C:\Users\MERDAN\Music\FirstApi\FirstApi.Data\obj\Debug\net7.0\FirstApi.Data.csproj.CoreCompileInputs.cache
